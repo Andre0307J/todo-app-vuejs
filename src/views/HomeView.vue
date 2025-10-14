@@ -15,7 +15,7 @@ function goToTodos() {
 
 <template>
   <div class="flex h-[70vh] flex-col items-center justify-center gap-6 text-center">
-    <h1 class="text-4xl font-bold tracking-tight md:text-5xl">Welcome to Your Vue Todo App</h1>
+    <h1 class="text-4xl font-bold tracking-tight md:text-5xl">Welcome to Todo App With Vue</h1>
     <p class="max-w-2xl text-lg text-muted-foreground">
       A modern, responsive, and fully-featured application to manage your daily tasks, migrated from
       React to Vue.
