@@ -4,7 +4,7 @@ This is a fully functional, accessible, and responsive Todo List app built with:
 
 - ✅ Vue 3 + Vue Router
 - ✅ Pinia for State Management
-- ✅ TypeScript
+- ✅ JavaScript
 - ✅ Tailwind CSS (with shadcn-vue for UI components)
 - ✅ DummyJSON API
 - ✅ Pusher for real-time chat
