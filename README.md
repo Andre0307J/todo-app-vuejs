@@ -60,7 +60,7 @@ my-vue-todo-app/
 
 ### ➕ Add Todo Modal
 
-![Add Modal](./src/assets/screenshots/add-modal.png)
+![Add Modal](./src/assets/screenshots/add-todo-modal.png)
 
 ### 📋 Todo List Details
 
@@ -68,15 +68,15 @@ my-vue-todo-app/
 
 ### ✏️ Edit Todo
 
-!Edit Modal
+![Edit Modal](./src/assets/screenshots/edit-todo.png)
 
 ### ❌ Delete Todo
 
-!Delete Todo Modal
+![Delete Todo Modal](./src/assets/screenshots/delete-todo.png)
 
 ### 🚫 404 Page
 
-!404 Page
+![404 Page](./src/assets/screenshots/404-page.png)
 
 ---
 ## 🚀 Getting Started
